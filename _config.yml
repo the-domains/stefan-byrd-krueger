@@ -1,0 +1,28 @@
+name: Stefan Byrd-Krueger
+favicon: null
+layout_spectrum: 0.6605237650219351
+typography_spectrum: 0.8062909399159253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.515363956335932
+  lightness: 0.22160884528420866
+  saturation: 0.5025170240551233
+  rhythmicContrast: 0.2888953983783722
+purpose: []
