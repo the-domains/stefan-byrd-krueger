@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stefan Byrd-Krueger]]></title>
+        <description><![CDATA[Stefan Byrd-Krueger]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 12:09:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flight of the Falcon]]></title>
+            <description><![CDATA[<article><h1>Flight of the Falcon</h1><p>Just under a week ago, amidst financial meltdown, high-stakes piracy on the high seas, and a looming political battle of the sexes, an upstart and his start-up made history by putting a privately funded rocket in orbit for the first time ever.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e85e247fa2d7a2758b015f3420566c6efcc92572.jpg"></article>]]></description>
+            <link>undefinedflight-of-the-falcon/index.html</link>
+            <guid isPermaLink="false">24014278-0895-45c3-aa2d-201bddbcb4de</guid>
+            <pubDate>Mon, 22 Feb 2016 12:09:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
