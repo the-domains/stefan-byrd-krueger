@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-22T12:09:09.516Z'
-dateModified: '2016-02-22T12:08:56.616Z'
+description: 'Reposted from a previous blog, originally published Saturday, October 4, 2008'
+datePublished: '2016-02-22T12:55:38.996Z'
+dateModified: '2016-02-22T12:55:38.664Z'
 title: Flight of the Falcon
 author: []
+sourcePath: _posts/2016-02-22-flight-of-the-falcon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-flight-of-the-falcon.md
-published: true
 url: flight-of-the-falcon/index.html
 _type: Article
 
