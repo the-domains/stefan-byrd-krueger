@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Stefan Byrd-Krueger]]></title>
         <description><![CDATA[Stefan Byrd-Krueger]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stefan-byrd-krueger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 12:09:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 12:13:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stefan-byrd-krueger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/stefan-byrd-krueger/d0c4c90e-9bcf-4062-9484-a4fc6c898e8a/index.html</link>
+            <guid isPermaLink="false">d0c4c90e-9bcf-4062-9484-a4fc6c898e8a</guid>
+            <pubDate>Mon, 22 Feb 2016 12:13:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flight of the Falcon]]></title>
-            <description><![CDATA[<article><h1>Flight of the Falcon</h1><p>Just under a week ago, amidst financial meltdown, high-stakes piracy on the high seas, and a looming political battle of the sexes, an upstart and his start-up made history by putting a privately funded rocket in orbit for the first time ever.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e85e247fa2d7a2758b015f3420566c6efcc92572.jpg"></article>]]></description>
-            <link>undefinedflight-of-the-falcon/index.html</link>
+            <description><![CDATA[<article><h1>Flight of the Falcon</h1><p>Just under a week ago, amidst financial meltdown, high-stakes piracy on the high seas, and a looming political battle of the sexes, an upstart and his start-up made history by putting a privately funded rocket in orbit for the first time ever.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd854cb9e854a53e9b0899a7d60746a6d0291f8c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stefan-byrd-krueger/flight-of-the-falcon/index.html</link>
             <guid isPermaLink="false">24014278-0895-45c3-aa2d-201bddbcb4de</guid>
             <pubDate>Mon, 22 Feb 2016 12:09:09 GMT</pubDate>
         </item>
