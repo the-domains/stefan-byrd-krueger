@@ -6,19 +6,19 @@ isBasedOnUrl: 'http://fonziefenster.blogspot.co.uk/2012/03/jeamus.html'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-22T14:24:39.882Z'
-dateModified: '2016-02-22T14:24:26.179Z'
+description: 'Recently, I was tasked with the honor of producing a signature cocktail for a betrothed pair of buddies'
+datePublished: '2016-02-22T15:36:28.619Z'
+dateModified: '2016-02-22T15:35:23.921Z'
 author: []
 title: The Jeamus
+sourcePath: _posts/2016-02-22-the-jeamus.md
+published: true
 authors: []
 publisher:
   name: fonziefenster.blogspot.co.uk
   domain: fonziefenster.blogspot.co.uk
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-the-jeamus.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
