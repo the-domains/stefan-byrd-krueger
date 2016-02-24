@@ -4,7 +4,7 @@
         <description><![CDATA[Stefan Byrd-Krueger]]></description>
         <link>http://byrdkrueger.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 22:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 16:13:03 GMT</lastBuildDate>
         <atom:link href="http://byrdkrueger.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Stefan]]></title>
@@ -12,6 +12,13 @@
             <link>http://byrdkrueger.com/d0c4c90e-9bcf-4062-9484-a4fc6c898e8a/index.html</link>
             <guid isPermaLink="false">d0c4c90e-9bcf-4062-9484-a4fc6c898e8a</guid>
             <pubDate>Mon, 22 Feb 2016 13:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The next step: Moving from generic analytics to editorial analytics]]></title>
+            <description><![CDATA[<article><h1>The next step: Moving from generic analytics to editorial analytics</h1><p>Big screens with real-time traffic data have become ubiquitous in newsrooms. They illustrate how news organizations are becoming more and more interested in tracking audience behavior, as data-informed approaches to decision making previously associated with popular sites like BuzzFeed, Gawker, and The Huffington Post are increasingly central to editorial decision making at upmarket brands like The Guardian, The Wall Street Journal, and Quartz.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0040636c245040ff3d8ebf2ae57b4a81c774ac16.jpg"></article>]]></description>
+            <link>http://www.niemanlab.org/2016/02/the-next-step-moving-from-generic-analytics-to-editorial-analytics/</link>
+            <guid isPermaLink="false">899f4923-8a9f-4f32-9aba-db822d30178a</guid>
+            <pubDate>Wed, 24 Feb 2016 16:12:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meteorological Magic]]></title>
