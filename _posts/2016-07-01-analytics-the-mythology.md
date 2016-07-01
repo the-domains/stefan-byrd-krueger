@@ -21,8 +21,8 @@ description: >-
   analytics in the company culture of non-profit organizations and talks about
   strategies to take analytics out of the spreadsheet and put it in the
   conference room.
-datePublished: '2016-07-01T10:10:31.798Z'
-dateModified: '2016-07-01T10:10:18.559Z'
+datePublished: '2016-07-01T10:13:29.479Z'
+dateModified: '2016-07-01T10:13:25.150Z'
 author: []
 related: []
 app_links: []
