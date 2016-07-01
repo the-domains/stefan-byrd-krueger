@@ -21,8 +21,8 @@ description: >-
   analytics in the company culture of non-profit organizations and talks about
   strategies to take analytics out of the spreadsheet and put it in the
   conference room.
-datePublished: '2016-07-01T10:07:49.129Z'
-dateModified: '2016-07-01T10:06:41.658Z'
+datePublished: '2016-07-01T10:10:31.798Z'
+dateModified: '2016-07-01T10:10:18.559Z'
 author: []
 related: []
 app_links: []
@@ -48,10 +48,6 @@ Here is the intro:
 > 
 > At this point "analytics" has reached a mythological status as the omnipotent source of marketing efficiency and the panacea for all that ails an underperforming communications department. At the same time, however, it is also seen as unattainably complex by many organizations, causing them to settle for out-of-the-box simplicity and to never realize the full promise of the data they already have access to.Well there is truth in every legend, and analytics does indeed bring great power to any organization that uses it effectively, but figuring out exactly how to integrate it appropriately with your organization is the step that often gets glossed over.
 
-> To read the rest, head on over to the ParsonsTKO website:http://parsonstko.com/how-should-you-lead-lead-by-analytics/
-
-> Here is th
-
-
+To read the rest, head on over to the ParsonsTKO website: http://parsonstko.com/how-should-you-lead-lead-by-analytics/
 
 [0]: http://parsonstko.com/how-should-you-lead-lead-by-analytics/
